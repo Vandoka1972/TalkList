@@ -1,2 +1,2 @@
 # TalkList
-Node JS, Sequelize, Postgres
+Node JS, Sequelize, Postgres funcionando em yarn
